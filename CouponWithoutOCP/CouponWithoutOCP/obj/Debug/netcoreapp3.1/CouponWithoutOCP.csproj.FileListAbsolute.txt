@@ -1,0 +1,13 @@
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.exe
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.deps.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.dev.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csprojAssemblyReference.cache
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfoInputs.cache
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfo.cs
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.genruntimeconfig.cache

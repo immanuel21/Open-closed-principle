@@ -1,0 +1,12 @@
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+C:\Users\Yofi\source\repos\Tugas 5\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
